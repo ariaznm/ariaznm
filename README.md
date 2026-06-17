@@ -1,9 +1,5 @@
 # Hi, There!
 
-## Python Dev 
-
-I want to make a difference and I'm willing to work hard for a skillful career rather than a regular career that I can be satisfied for. I want to work hard, be responsible, and improve my profession and skills with a reputed organization in an ethical way in order to accept challenges.
-
 ### 🛠️ Currently Learning With
 
 #### 💻 Languages & Frameworks
